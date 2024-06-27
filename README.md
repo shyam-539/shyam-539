@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.flaticon.com/free-icon/bootstrap_5968672?term=bootstrap&page=1&position=1&origin=search&related_id=5968672)" alt="bootstrap" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
       </a>
       <br>Bootstrap
     </td>
