@@ -1,3 +1,10 @@
+<div align="center" style="background-image: url('https://dribbble.com/shots/24426270-a-simple-illustration?new_shot_upload=true&utm_source=Clipboard_Shot&utm_campaign=Shyam539&utm_content=a%20simple%20illustration&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Shyam539&utm_content=a%20simple%20illustration&utm_medium=Social_Share'); background-size: cover; height: 300px; position: relative;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
+    <h1 style="font-size: 3em;">Hi, I'm Shyam</h1>
+    <p style="font-size: 1.5em;">Passionate UI/UX Designer and Full-Stack Developer</p>
+    <!-- Add badges or icons here if needed -->
+  </div>
+</div>
 <h1 align="center">Hi 👋, I'm Shyam Sankar P</h1>
 <h3 align="center">I'm a passionate UI/UX designer and full-stack developer from India.</h3>
 <img align="right"  alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJrbHU4bW4wcDB6eWZtbXE4OXUyanR3ejl2NjE4amRheXYyYXBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
