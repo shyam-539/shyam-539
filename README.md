@@ -153,7 +153,6 @@
     </div>
   </div>
 </div>
-
 <!-- GitHub Streak -->
 <div style="margin-top: 40px;" align="center">
   <h2>GitHub Streak</h2>
