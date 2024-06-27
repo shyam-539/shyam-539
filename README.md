@@ -34,103 +34,108 @@
 <h3 align="center">Languages and Tools:</h3>
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a><br>
       C
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a><br>
       Bootstrap
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a><br>
       Express.js
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a><br>
       HTML5
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a><br>
       Figma
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a><br>
       Java
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+    <td align="center" width="120">
       <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a><br>
       Django
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a><br>
       MongoDB
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a><br>
       JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a><br>
       Firebase
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a><br>
       PHP
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a><br>
       Laravel
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+    <td align="center" width="120">
       <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a><br>
       MySQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a><br>
       React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a><br>
       Photoshop
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a><br>
       TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a><br>
       Tailwind CSS
     </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a><br>
-      PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a><br>
-      Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a><br>
-      Illustrator
+    <td align="center" width="120">
+      <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a><br>
+      Git
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a><br>
-      Linux
+    <td align="center" width="120">
+      <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a><br>
+      Redux
     </td>
-    <td align="center" width="96">
-      <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/></a><br>
+    <td align="center" width="120">
+      <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="Adobe XD" width="40" height="40"/></a><br>
       Adobe XD
     </td>
-    <!-- Add more rows and adjust as needed -->
+    <td align="center" width="120">
+      <a href="https://www.sketch.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/></a><br>
+      Sketch
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a><br>
+      Illustrator
+    </td>
+    <td align="center" width="120">
+      <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a><br>
+      Sass
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.eclipse.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse IDE" width="40" height="40"/></a><br>
+      Eclipse IDE
+    </td>
   </tr>
 </table>
 
