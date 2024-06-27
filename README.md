@@ -21,7 +21,7 @@
 
 <!-- Social Media Section -->
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://codepen.io/shyam-539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/></a>
   <a href="https://dev.to/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/></a>
   <a href="https://twitter.com/@shyamigans" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
