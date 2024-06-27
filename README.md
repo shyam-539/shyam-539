@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [www.shyamsankarp.vector.app](www.shyamsankarp.vector.app)
+- 👨‍💻 All projects in [www.shyamsankarp.vector.app](www.shyamsankarp.vector.app)
 
 - 📝 I regularly write articles on [https://dev.to/shyam539](https://dev.to/shyam539)
 
