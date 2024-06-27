@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://drive.google.com/file/d/1_6D-yLSLyj8HMGJmFDA30z6jfgteRG2N/view?usp=drive_link'); background-size: cover; height: 300px; position: relative;">
+<div align="center" style="background-image: url('https://github.com/shyam-539/shyam-539/blob/main/README%20banner.jpg'); background-size: cover; height: 300px; position: relative;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
     <h1 style="font-size: 3em;">Hi, I'm Shyam</h1>
     <p style="font-size: 1.5em;">Passionate UI/UX Designer and Full-Stack Developer</p>
