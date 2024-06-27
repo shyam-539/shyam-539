@@ -1,38 +1,33 @@
-<!-- Banner Image -->
-![MasterHead](https://github.com/shyam-539/shyam-539/blob/main/README%20banner.jpg)
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://github.com/shyam-539/shyam-539/blob/main/README%20banner.jpg" alt="Banner" width="100%">
+</p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Shyam Sankar P</h1>
-<h3 align="center">Passionate UI/UX Designer and Full-Stack Developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Shyam Sankar P</h1>
+<h3 align="center">Passionate UI/UX Designer and Full-stack Developer from India</h3>
 
-<!-- Badges or Icons -->
+<!-- Bio Section -->
 <p align="center">
-  <a href="https://codepen.io/shyam-539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://dev.to/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/shyamigans" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shyamsankarp539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://dribbble.com/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
-  <a href="https://www.behance.net/shyamsankarp539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a>
+  <img align="right"  alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJrbHU4bW4wcDB6eWZtbXE4OXUyanR3ejl2NjE4amRheXYyYXBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
 
-<!-- Skills and Learning -->
-<p align="center">
-  🌱 Currently learning **MERN stack** <br>
-  👨‍💻 All projects in [www.shyamsankarp.vector.app](https://www.shyamsankarp.vector.app) <br>
-  📝 Writing articles on [Dev.to](https://dev.to/shyam539) <br>
-  📫 Reach me at **shyamsankarp539@gmail.com** <br>
-  📄 Know about my experiences on [Resume](https://www.resume.com)
-</p>
+<!-- About Me Section -->
+- 🌱 Currently learning **MERN stack**
+- 👨‍💻 View my projects on [shyamsankarp.vector.app](http://www.shyamsankarp.vector.app)
+- 📝 Regularly write articles on [Dev.to](https://dev.to/shyam539)
+- 📫 Reach me at **shyamsankarp539@gmail.com**
+- 📄 Check out my experiences on [Resume.com](http://www.resume.com)
 
-<!-- Connect with Me -->
-<h3 align="center">Connect with Me:</h3>
+<!-- Social Media Section -->
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://codepen.io/shyam-539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://dev.to/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/shyamigans" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shyamsankarp539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://dribbble.com/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
-  <a href="https://www.behance.net/shyamsankarp539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a>
+  <a href="https://codepen.io/shyam-539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/></a>
+  <a href="https://dev.to/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/></a>
+  <a href="https://twitter.com/@shyamigans" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/shyamsankarp539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://dribbble.com/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40"/></a>
+  <a href="https://www.behance.net/shyamsankarp539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40"/></a>
 </p>
 
 <!-- Skills Section -->
