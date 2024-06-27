@@ -142,12 +142,12 @@
 <!-- GitHub Stats and Languages -->
 <div align="center">
   <h2>GitHub Statistics and Top Languages</h2>
-  <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 20px; max-width: 48%;">
+  <div style="display: flex; justify-content: space-between; max-width: 1000px; margin: 0 auto;">
+    <div style="flex: 1; margin-right: 20px;">
       <h3>GitHub Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=shyam-539&show_icons=true&theme=dark" alt="GitHub Stats" />
     </div>
-    <div style="flex: 1; max-width: 48%;">
+    <div style="flex: 1;">
       <h3>Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-539&layout=compact&theme=dark" alt="Top Languages" />
     </div>
@@ -159,12 +159,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-539&theme=dark" alt="GitHub Streak" />
 </div>
 
-
-<!-- GitHub Streak -->
-<div style="margin-top: 20px;">
-  <h3 align="center">GitHub Streak</h3>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-539&theme=dark" alt="GitHub Streak" />
-  </p>
-</div>
 
