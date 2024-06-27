@@ -143,11 +143,11 @@
 <div align="center">
   <h2>GitHub Statistics and Top Languages</h2>
   <div style="display: flex; max-width: 1000px; margin: 0 auto;">
-    <div style="flex: 1; margin-right: 20px;">
+    <div style="grid: 1; margin-right: 20px;">
       <h3>GitHub Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=shyam-539&show_icons=true&theme=dark" alt="GitHub Stats" />
     </div>
-    <div style="flex: 1;">
+    <div style="grid: 1;">
       <h3>Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-539&layout=compact&theme=dark" alt="Top Languages" />
     </div>
