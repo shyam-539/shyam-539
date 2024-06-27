@@ -20,7 +20,7 @@
 - 📄 Check out my experiences on [Resume.com](http://www.resume.com)
 
 <!-- Social Media Section -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://codepen.io/shyam-539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/></a>
   <a href="https://dev.to/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/></a>
