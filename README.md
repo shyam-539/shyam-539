@@ -140,9 +140,9 @@
 </table>
 
 <!-- GitHub Stats and Languages -->
-<div>
-  <h2 style="text-align: center;">GitHub Statistics and Top Languages</h2>
-  <div style="display: flex; justify-content: space-between; max-width: 1000px; margin: 0 auto;">
+<div align="center">
+  <h2>GitHub Statistics and Top Languages</h2>
+  <div style="display: flex; max-width: 1000px; margin: 0 auto;">
     <div style="flex: 1; margin-right: 20px;">
       <h3>GitHub Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=shyam-539&show_icons=true&theme=dark" alt="GitHub Stats" />
