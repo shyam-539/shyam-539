@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://dribbble.com/shots/24426270-a-simple-illustration?new_shot_upload=true&utm_source=Clipboard_Shot&utm_campaign=Shyam539&utm_content=a%20simple%20illustration&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Shyam539&utm_content=a%20simple%20illustration&utm_medium=Social_Share'); background-size: cover; height: 300px; position: relative;">
+<div align="center" style="background-image: url('https://drive.google.com/file/d/1_6D-yLSLyj8HMGJmFDA30z6jfgteRG2N/view?usp=drive_link'); background-size: cover; height: 300px; position: relative;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
     <h1 style="font-size: 3em;">Hi, I'm Shyam</h1>
     <p style="font-size: 1.5em;">Passionate UI/UX Designer and Full-Stack Developer</p>
