@@ -140,14 +140,26 @@
 </table>
 
 <!-- GitHub Stats and Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-539&layout=compact" alt="Top Languages" />
-</p>
+<div style="display: flex; justify-content: space-around;">
+  <div style="flex: 1; margin-right: 20px;">
+    <h3 align="center">GitHub Statistics</h3>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=shyam-539&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <h3 align="center">Top Languages</h3>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-539&layout=compact&theme=dark" alt="Top Languages" />
+    </p>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyam-539&show_icons=true" alt="GitHub Stats" />
-</p>
+<!-- GitHub Streak -->
+<div style="margin-top: 20px;">
+  <h3 align="center">GitHub Streak</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-539&theme=dark" alt="GitHub Streak" />
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-539" alt="GitHub Streak" />
-</p>
