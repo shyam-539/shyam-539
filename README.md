@@ -142,12 +142,12 @@
 <!-- GitHub Stats and Languages -->
 <div align="center">
   <h2>GitHub Statistics and Top Languages</h2>
-  <div style="max-width: 800px; margin: 0 auto;">
-    <div style="margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-around; max-width: 1000px; margin: 0 auto;">
+    <div style="flex: 1; margin-right: 20px;">
       <h3>GitHub Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=shyam-539&show_icons=true&theme=dark" alt="GitHub Stats" />
     </div>
-    <div>
+    <div style="flex: 1;">
       <h3>Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-539&layout=compact&theme=dark" alt="Top Languages" />
     </div>
