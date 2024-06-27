@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/shyam-539/shyam-539/blob/main/README%20banner.jpg)
+![MasterHead](https://github.com/shyam-539/shyam-539/blob/main/README%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Shyam Sankar P</h1>
 <h3 align="center">I'm a passionate UI/UX designer and full-stack developer from India.</h3>
 <img align="right"  alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJrbHU4bW4wcDB6eWZtbXE4OXUyanR3ejl2NjE4amRheXYyYXBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
