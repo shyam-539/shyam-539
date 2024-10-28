@@ -3,11 +3,11 @@
 
 <!-- Animated Header with Typing Effect -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shyam+ Sankar+P!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shyam+Sankar!;" />
 </h1>
 
 <!-- Subheading -->
-<h3 align="center">A passionate software developer from Kerala <span style="color: #138808;">IN</span></h3>
+<h3 align="center">A passionate UI/UX & software developer from Kerala IN</h3>
 
 <br/>
 
