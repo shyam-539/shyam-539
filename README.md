@@ -1,162 +1,91 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://github.com/shyam-539/shyam-539/blob/main/README%20banner.jpg" alt="Banner" width="100%">
-</p>
+<!-- Visitor Badge -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!-- Introduction -->
-<h1 align="center">Hi there 👋, I'm Shyam Sankar P</h1>
-<h3 align="center">Passionate UI/UX Designer and Full-stack Developer from India</h3>
+<!-- Animated Header with Typing Effect -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-<!-- Bio Section -->
-<p align="center">
-  <img align="right"  alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJrbHU4bW4wcDB6eWZtbXE4OXUyanR3ejl2NjE4amRheXYyYXBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-</p>
+<!-- Subheading -->
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-<!-- About Me Section -->
-- 🌱 Currently learning **MERN stack**
-- 👨‍💻 View my projects on [shyamsankarp.vector.app](http://www.shyamsankarp.vector.app)
-- 📝 Regularly write articles on [Dev.to](https://dev.to/shyam539)
-- 📫 Reach me at **shyamsankarp539@gmail.com**
-- 📄 Check out my experiences on [Resume.com](http://www.resume.com)
+<br/>
 
-<!-- Social Media Section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/shyam-539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/></a>
-  <a href="https://dev.to/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/></a>
-  <a href="https://twitter.com/@shyamigans" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-  <a href="https://linkedin.com/in/shyamsankarp539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://dribbble.com/shyam539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40"/></a>
-  <a href="https://www.behance.net/shyamsankarp539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40"/></a>
-</p>
-
-<!-- Skills Section -->
-<h3 align="center">Languages and Tools:</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a><br>
-      C
-    </td>
-    <td align="center" width="120">
-      <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a><br>
-      Bootstrap
-    </td>
-    <td align="center" width="120">
-      <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a><br>
-      Express.js
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a><br>
-      HTML5
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a><br>
-      Figma
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a><br>
-      Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a><br>
-      Django
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a><br>
-      MongoDB
-    </td>
-    <td align="center" width="120">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a><br>
-      JavaScript
-    </td>
-    <td align="center" width="120">
-      <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a><br>
-      Firebase
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a><br>
-      PHP
-    </td>
-    <td align="center" width="120">
-      <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a><br>
-      Laravel
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a><br>
-      MySQL
-    </td>
-    <td align="center" width="120">
-      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a><br>
-      React
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a><br>
-      Photoshop
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a><br>
-      TypeScript
-    </td>
-    <td align="center" width="120">
-      <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a><br>
-      Tailwind CSS
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a><br>
-      Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a><br>
-      Redux
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="Adobe XD" width="40" height="40"/></a><br>
-      Adobe XD
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.sketch.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/></a><br>
-      Sketch
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a><br>
-      Illustrator
-    </td>
-    <td align="center" width="120">
-      <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a><br>
-      Sass
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.eclipse.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse IDE" width="40" height="40"/></a><br>
-      Eclipse IDE
-    </td>
-  </tr>
-</table>
-
-<!-- GitHub Stats and Languages -->
+<!-- Intro and Fun Facts Section -->
 <div align="center">
-  <h2>GitHub Statistics and Top Languages</h2>
-  <div style="display: flex; justify-content: space-around; max-width: 1000px; margin: 0 auto;">
-    <div style="flex: 1; margin-right: 20px;">
-      <h3>GitHub Statistics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=shyam-539&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </div>
-    <div style="flex: 1;">
-      <h3>Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-539&layout=compact&theme=dark" alt="Top Languages" />
-    </div>
-  </div>
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 </div>
-<!-- GitHub Streak -->
-<div style="margin-top: 40px;" align="center">
-  <h2>GitHub Streak</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-539&theme=dark" alt="GitHub Streak" />
+ 
+<!-- Social Media Links -->
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
+<!-- Divider -->
+ <hr/>
+ 
+<!-- Skills Section -->
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <!-- First Row of Icons (Frontend & Design Tools) -->
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <!-- Second Row of Icons (Backend & Database Tools) -->
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<br/>
+<hr/>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <!-- Streak Stats Card -->
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <!-- General GitHub Stats Card -->
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <!-- Top Languages Used Card -->
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<!-- Support Button (Ko-Fi) -->
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
