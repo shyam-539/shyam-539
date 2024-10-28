@@ -20,7 +20,7 @@
 
 💬 Ask me about **PHP, LARAVEL, JS... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: **The first programmer in history was Ada Lovelace, who wrote an algorithm in the 1840s!**
 
 </div>
  
