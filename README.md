@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **Mern Stack**
 
-💬 Ask me about **PHP, LARAVEL, JS... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **PHP, LARAVEL, JS... or anything [here](https://github.com/shyam-539)**
 
 ⚡ Fun fact: **The first programmer in history was Ada Lovelace, who wrote an algorithm in the 1840s!**
 
